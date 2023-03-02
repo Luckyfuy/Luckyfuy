@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi 👋 I'm Luckyfuy
 
-<!--
-**Luckyfuy/Luckyfuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Student
+- 🎈 Ex-OIer
+- 📚 Linguistics / Music / Philosophy
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,qt,flask,mysql,regex,md,latex,gradle,vim,vscode,idea,linux,bash,powershell,git,github,ps,ai,au,pr)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github-readme-stats.vercel.app/api?username=Luckyfuy&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luckyfuy&show_icons=true" height="200px">
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyfuy&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyfuy&layout=compact" height="200px">
+</a>
