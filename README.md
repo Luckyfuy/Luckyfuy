@@ -13,5 +13,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyfuy&layout=compact" height="185px">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Luckyfuy&layout=compact" height="185px">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=@Luckyfuy&layout=compact">
 </a>
