@@ -2,7 +2,7 @@
 
 - 🎓 Student
 - 🎈 Ex-OIer
-- 📚 Linguistics / Music / Philosophy
+- 📚 Linguistics / Music / Philosophy / Rail Transit
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,java,qt,flask,mysql,regex,md,latex,gradle,vim,vscode,idea,linux,bash,powershell,git,github,ps,ai,au,pr)](https://skillicons.dev)
 
