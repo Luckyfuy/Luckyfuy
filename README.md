@@ -1,17 +1,19 @@
 # Hi 👋 I'm Luckyfuy
 
 - 🎓 Student
-- 🎈 Ex-OIer
+- 🖥 Ex-OIer
 - 📚 Linguistics / Music / Philosophy / Rail Transit
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,qt,flask,mysql,regex,md,latex,gradle,vim,vscode,idea,linux,bash,powershell,git,github,ps,ai,au,pr)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,rust,qt,flask,mysql,regex,md,latex,vscode,linux,arch,bash,powershell,git,github,ps,ai,au,pr">
+  </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luckyfuy&show_icons=true" height="185px">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyfuy&layout=compact" height="185px">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=@Luckyfuy&layout=compact">
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Luckyfuy&show_icons=true">
+  </a>
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Luckyfuy&layout=compact">
+  </a>
+</p>
